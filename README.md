@@ -1,9 +1,3 @@
-# Wallet project- Using Redux-toolkit
-
-This portfolio wallet project is built using HTML, CSS, JavaScript, React, Redux, and redux-toolkit, and custom CSS.user can add transactions, get transactions, edit transactions, and delete transactions. this project makes for learning purposes in the redux toolkit. all data request sync by the server and local state.
-
-### Live Website link
-
 [Live Preview](https://walletproject.netlify.app/)
 
 ## Screenshots
