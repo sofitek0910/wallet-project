@@ -15,7 +15,7 @@
 - Add income transaction
 - Add expense transaction
 - show transaction
-- show All transaction
+- show All transaction 
 - edit transaction
 - delete transaction
 - filter transaction
