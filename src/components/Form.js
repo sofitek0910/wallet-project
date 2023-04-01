@@ -19,7 +19,7 @@ const Form = () => {
   const resetFrom = () => {
     setName("");
     setType("");
-    setAmount("");
+    setAmount(""); 
   };
 
   const handleCreate = (e) => {

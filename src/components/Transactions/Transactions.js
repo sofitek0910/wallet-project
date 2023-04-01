@@ -15,7 +15,7 @@ const Transactions = () => {
   let content = null;
   if (isLoading) {
     content = <Loading />;
-  }
+  } 
   if (!isLoading && isError) {
     content = <p>There are some error</p>;
   }
